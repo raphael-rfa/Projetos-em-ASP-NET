@@ -1,8 +1,7 @@
-# Projetos-em-ASP-NET
+#  🗃 Projetos-em-ASP-NET
 
-Repositorio alias do repositorio <a href="https://github.com/raphael-rfa/Projetos-em-Csharp">Projetos em C#</a>  
-aqui eu passo os codigo do repositorio acima que estao no formato de aplicação console  
-para o ASP.NET core no padrão MVC.
+Aqui eu passo os codigo do repositorio <a href="https://github.com/raphael-rfa/Projetos-em-Csharp">Projetos em C#</a> que estão no formato de aplicação  
+console para Aplicativo Web usando o ASP.NET core no padrão MVC.
 
 # 📦 [Controle de Estoque](https://github.com/raphael-rfa/Projetos-em-ASP-NET)
 
@@ -33,5 +32,5 @@ pesquisa por nome e a filtragem fela Area.
 
 ### Projeto
 
-CRUD com as 4 principais funções armazena o nome do aluno suas notas e faz a listagem da  
-ranquenado os alunos com a mlelhor nota até a pior nota.
+CRUD com as 4 principais funções armazena o nome do aluno suas notas e faz a listagem  
+ranquenado os alunos da mlelhor nota até a pior nota.
