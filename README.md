@@ -3,6 +3,21 @@
 Aqui eu passo os codigo do repositorio <a href="https://github.com/raphael-rfa/Projetos-em-Csharp">Projetos em C#</a> que estão no formato de aplicação  
 console para Aplicativo Web usando o ASP.NET core no padrão MVC.
 
+# 🧮 [Calculadora de IMC](https://github.com/raphael-rfa/Projetos-em-ASP-NET)
+
+A calculadora de IMC(Indice de Massa Corporea) indica em qual faixa de  
+risco o usuario esta: abaixo do peso; normal; acima do peso; obesidade e  
+obesidade mórbida.
+
+### Projeto
+
+Esse projeto recebe a altura e peso do usuario para fazer o calculo.  
+Depois do calculo feito e o indice ter sido obtido é hora de descobrir  
+em que faixa de risco ele se encontra, se o indice esta abaixo de 18.5 ele  
+esta abaixo do peso, se estiver entre 18.5 e 25 esta com o peso normal, entre  
+de 26 a 30 com escesso de peso, se o indice estiver de 30 a 35 indica que o  
+usuario esta com obesidade e acima de 35 com obesidade mórbida.
+
 # 📦 [Controle de Estoque](https://github.com/raphael-rfa/Projetos-em-ASP-NET)
 
 Controle de Estoque de uma fabrica.
