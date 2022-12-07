@@ -3,7 +3,8 @@
 Aqui eu passo os codigo do repositorio <a href="https://github.com/raphael-rfa/Projetos-em-Csharp">Projetos em C#</a> que estão no formato de aplicação  
 console para Aplicativo Web usando o ASP.NET core no padrão MVC.
 
-# 🧮 [Calculadora de IMC](https://github.com/raphael-rfa/Projetos-em-ASP-NET)
+# 🧮 <a href="https://calculodoimc.azurewebsites.net/">Site para calcular IMC</a> 
+<a href="https://calculodoimc.azurewebsites.net/"><img src="https://raw.githubusercontent.com/raphael-rfa/sites/main/imagens/site4.png" width="300" height="auto" align="right"/></a>
 
 A calculadora de IMC(Indice de Massa Corporea) indica em qual faixa de  
 risco o usuario esta: abaixo do peso; normal; acima do peso; obesidade e  
@@ -18,7 +19,8 @@ esta abaixo do peso, se estiver entre 18.5 e 25 esta com o peso normal, entre
 de 26 a 30 com escesso de peso, se o indice estiver de 30 a 35 indica que o  
 usuario esta com obesidade e acima de 35 com obesidade mórbida.
 
-# 📦 [Controle de Estoque](https://github.com/raphael-rfa/Projetos-em-ASP-NET)
+# 📦 <a href="https://controledeestoque.azurewebsites.net/">Aplicação de controle de estoque</a>
+<a href="https://controledeestoque.azurewebsites.net/"><img src="https://raw.githubusercontent.com/raphael-rfa/sites/main/imagens/site6.webp" width="300" height="auto" align="right"/></a>
 
 Controle de Estoque de uma fabrica.
 
@@ -34,7 +36,7 @@ estiverem com menor quantidade em estoque aparecerão primeiro e decrescente ond
 a listagem começando com os produtos com maior quantidade em estoque.  
 
 
-# 📚 [Biblioteca](https://github.com/raphael-rfa/Projetos-em-ASP-NET)
+# 📚 [Biblioteca](https://github.com/raphael-rfa/Projetos-em-ASP-NET)(Em desenvolvimento...)
 
 ### Projeto
 
@@ -42,8 +44,14 @@ O progama permite fazer o cadastro de livros com os seguintes dados CODIGO, TITU
 AREA, ANO e EDITORA. O site da a opção de Criar, Editar, Detalhes e Excluir. Também faz a  
 pesquisa por nome e a filtragem fela Area.
 
+(O projeto em si está completo, mas decidir colocar uma nova funcionalidade por ser uma  
+biblioteca achei interessante o usuario poder fazer o upload da imagem do livro, porém o 
+processo de upload é muito sensivel e requer um conhecimento maior de segurança, então vou
+estudar mais um pouco para aprender do jeito certo e não com qualquer tutorial por ai.)
 
-# 📈 [Gestão de Sala de Aula](https://github.com/raphael-rfa/Projetos-em-ASP-NET)
+
+# 📈 <a href="https://gestaodesaladeaula.azurewebsites.net/">Aplicação de gestão de sala de aula</a>
+<a href="https://gestaodesaladeaula.azurewebsites.net/"><img src="https://raw.githubusercontent.com/raphael-rfa/sites/main/imagens/site5.webp" width="300" height="auto" align="right"/></a>
 
 ### Projeto
 
