@@ -1,7 +1,11 @@
 #  🗃 Projetos-em-ASP-NET
 
 Aqui eu passo os codigo do repositorio <a href="https://github.com/raphael-rfa/Projetos-em-Csharp">Projetos em C#</a> que estão no formato de aplicação  
-console para Aplicativo Web usando o ASP.NET core no padrão MVC. SITES DEMORAM PARA ABRI MESMO POIS OS SERVIDORES DA AZURE QUE ESCOLHI FORAM OS MAI FRAQUINHOS PORQUE NÃO TENHO DINHEIRO MAS VOCÊ PODE CLONAR O REPOSITORIO !!!
+console para Aplicativo Web usando o ASP.NET core no padrão MVC. 
+
+
+SITES DEMORAM PARA ABRI MESMO POIS OS SERVIDORES DA AZURE QUE ESCOLHI FORAM OS MAI FRAQUINHOS PORQUE NÃO TENHO DINHEIRO MAS VOCÊ PODE CLONAR O REPOSITORIO !!!
+
 
 # 🧮 <a href="https://calculodoimc.azurewebsites.net/">Site para calcular IMC</a> 
 <a href="https://calculodoimc.azurewebsites.net/"><img src="https://raw.githubusercontent.com/raphael-rfa/sites/main/imagens/site4.png" width="300" height="auto" align="right"/></a>
