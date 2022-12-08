@@ -4,7 +4,7 @@ Aqui eu passo os codigo do repositorio <a href="https://github.com/raphael-rfa/P
 console para Aplicativo Web usando o ASP.NET core no padrão MVC. 
 
 
-SITES DEMORAM PARA ABRI MESMO POIS OS SERVIDORES DA AZURE QUE ESCOLHI FORAM OS MAI FRAQUINHOS PORQUE NÃO TENHO DINHEIRO MAS VOCÊ PODE CLONAR O REPOSITORIO !!!
+SITES DEMORAM PARA ABRI MESMO, POIS OS SERVIDORES DA AZURE QUE ESCOLHI FORAM OS MAIS FRAQUINHOS PORQUE NÃO TENHO DINHEIRO, MAS VOCÊ PODE CLONAR O REPOSITORIO !!!O que pode não adiantar muita coisa já que o banco de dados tmbém é da Azure kk
 
 
 # 🧮 <a href="https://calculodoimc.azurewebsites.net/">Site para calcular IMC</a> 
