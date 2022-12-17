@@ -60,4 +60,4 @@ estudar mais um pouco para aprender do jeito certo e não com qualquer tutorial 
 ### Projeto
 
 CRUD com as 4 principais funções armazena o nome do aluno suas notas e faz a listagem  
-ranquenado os alunos da mlelhor nota até a pior nota.
+ranquenado os alunos da melhor nota até a pior nota.
