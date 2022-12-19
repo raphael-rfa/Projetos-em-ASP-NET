@@ -27,7 +27,7 @@ usuario esta com obesidade e acima de 35 com obesidade mórbida.
 
 Controle de Estoque de uma fabrica.
 
-### Projeto
+### Projeto(Atenção banco de dados AZURE)
 
 CRUD - Completo com as funções de Criar, Editar, Detalhes e Excluir  
 
@@ -56,7 +56,7 @@ estudar mais um pouco para aprender do jeito certo e não com qualquer tutorial 
 # 📈 <a href="https://gestaodesaladeaula.azurewebsites.net/">Aplicação de gestão de sala de aula</a>
 <a href="https://gestaodesaladeaula.azurewebsites.net/"><img src="https://raw.githubusercontent.com/raphael-rfa/sites/main/imagens/site5.webp" width="300" height="auto" align="right"/></a>
 
-### Projeto
+### Projeto(Atenção Banco de dados AZURE)
 
 CRUD com as 4 principais funções armazena o nome do aluno suas notas e faz a listagem  
 ranquenado os alunos da melhor nota até a pior nota.
