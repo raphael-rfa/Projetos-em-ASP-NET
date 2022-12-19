@@ -3,8 +3,8 @@
 Aqui eu passo os codigo do repositorio <a href="https://github.com/raphael-rfa/Projetos-em-Csharp">Projetos em C#</a> que estão no formato de aplicação  
 console para Aplicativo Web usando o ASP.NET core no padrão MVC. 
 
-
-SITES DEMORAM PARA ABRIr MESMO, POIS OS SERVIDORES DA AZURE QUE ESCOLHI FORAM OS MAIS FRAQUINHOS PORQUE NÃO TENHO DINHEIRO, MAS VOCÊ PODE CLONAR O REPOSITORIO !!!O que pode não adiantar muita coisa já que o banco de dados também é da Azure e são pausado depois de 1 hora de inatividade, porque eu não tenho dinheiro para ficar bancando banco de dados de aplicação de teste não (Azure cobra em dolar, DOLAR !!!!!!)kkkk vai dando f5 que entra !
+## "ATENÇÃO"
+Estou trocando o banco de dados das aplicações pois a AZURE mete a faca pra caralho e eu sou pobre porque niguem contrata então se você estiver tendo problemas para entrar, perdão.
 
 # 🧮 <a href="https://calculodoimc.azurewebsites.net/">Site para calcular IMC</a> 
 <a href="https://calculodoimc.azurewebsites.net/"><img src="https://raw.githubusercontent.com/raphael-rfa/sites/main/imagens/site4.png" width="300" height="auto" align="right"/></a>
