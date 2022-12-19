@@ -4,7 +4,7 @@ Aqui eu passo os codigo do repositorio <a href="https://github.com/raphael-rfa/P
 console para Aplicativo Web usando o ASP.NET core no padrão MVC. 
 
 ## "ATENÇÃO"
-Estou trocando o banco de dados das aplicações pois a AZURE mete a faca pra caralho e eu sou pobre porque niguem contrata então se você estiver tendo problemas para entrar, perdão.
+Estou trocando o banco de dados das aplicações pois a AZURE mete a faca pra caralho e eu sou pobre porque niguem contrata então se você quiser verificar a aplicação em produção chegou tarde mas ainda pode clonar os repositorios vou tentar deixar todas as aplicações com SeedData para ficar mais fácil mas no momento estou puto de raiva e não garanto.
 
 # 🧮 <a href="https://calculodoimc.azurewebsites.net/">Site para calcular IMC</a> 
 <a href="https://calculodoimc.azurewebsites.net/"><img src="https://raw.githubusercontent.com/raphael-rfa/sites/main/imagens/site4.png" width="300" height="auto" align="right"/></a>
@@ -22,12 +22,12 @@ esta abaixo do peso, se estiver entre 18.5 e 25 esta com o peso normal, entre
 de 26 a 30 com escesso de peso, se o indice estiver de 30 a 35 indica que o  
 usuario esta com obesidade e acima de 35 com obesidade mórbida.
 
-# 📦 <a href="https://controledeestoque.azurewebsites.net/">Aplicação de controle de estoque</a>
-<a href="https://controledeestoque.azurewebsites.net/"><img src="https://raw.githubusercontent.com/raphael-rfa/sites/main/imagens/site6.webp" width="300" height="auto" align="right"/></a>
+# 📦 <a href="https://github.com/raphael-rfa/ControleDeEstoque">Aplicação de controle de estoque</a>
+<a href="https://github.com/raphael-rfa/ControleDeEstoque"><img src="https://raw.githubusercontent.com/raphael-rfa/sites/main/imagens/site6.webp" width="300" height="auto" align="right"/></a>
 
 Controle de Estoque de uma fabrica.
 
-### Projeto(Atenção banco de dados AZURE)
+### Projeto (Clone o repositorio, banco de dados é muito caro!!)
 
 CRUD - Completo com as funções de Criar, Editar, Detalhes e Excluir  
 
@@ -53,10 +53,10 @@ processo de upload é muito sensivel e requer um conhecimento maior de seguranç
 estudar mais um pouco para aprender do jeito certo e não com qualquer tutorial por ai.)
 
 
-# 📈 <a href="https://gestaodesaladeaula.azurewebsites.net/">Aplicação de gestão de sala de aula</a>
-<a href="https://gestaodesaladeaula.azurewebsites.net/"><img src="https://raw.githubusercontent.com/raphael-rfa/sites/main/imagens/site5.webp" width="300" height="auto" align="right"/></a>
+# 📈 <a href="https://github.com/raphael-rfa/GestaoDeSalaDeAula">Aplicação de gestão de sala de aula</a>
+<a href="https://github.com/raphael-rfa/GestaoDeSalaDeAula"><img src="https://raw.githubusercontent.com/raphael-rfa/sites/main/imagens/site5.webp" width="300" height="auto" align="right"/></a>
 
-### Projeto(Atenção Banco de dados AZURE)
+### Projeto (Clone o repositorio, banco de dados é muito caro!!)
 
 CRUD com as 4 principais funções armazena o nome do aluno suas notas e faz a listagem  
 ranquenado os alunos da melhor nota até a pior nota.
