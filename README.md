@@ -4,7 +4,7 @@ Aqui eu passo os codigo do repositorio <a href="https://github.com/raphael-rfa/P
 console para Aplicativo Web usando o ASP.NET core no padrão MVC. 
 
 ## "ATENÇÃO"
-Estou trocando o banco de dados das aplicações pois a AZURE mete a faca pra caralho e eu sou pobre porque niguem contrata então se você quiser verificar a aplicação em produção chegou tarde mas ainda pode clonar os repositorios vou tentar deixar todas as aplicações com SeedData para ficar mais fácil mas no momento estou puto de raiva e não garanto.
+Estou trocando o banco de dados das aplicações pois a AZURE mete a faca pra caralho e eu sou pobre porque niguem contrata então se você quiser verificar a aplicação em produção chegou tarde mas ainda pode clonar os repositorios vou tentar deixar todas as aplicações com SeedData para ficar mais fácil.
 
 # 🧮 <a href="https://calculodoimc.azurewebsites.net/">Site para calcular IMC</a> 
 <a href="https://calculodoimc.azurewebsites.net/"><img src="https://raw.githubusercontent.com/raphael-rfa/sites/main/imagens/site4.png" width="300" height="auto" align="right"/></a>
